@@ -1,6 +1,6 @@
 # My-Carrot
 第十三届齐鲁大学生软件大赛HTML5项目
-### where's my carrot 基于cocos2D 的简单HTML5小游戏
+## where's my carrot 基于cocos2D 的简单HTML5小游戏
 1. 跳板游戏
 2. 奖励胡萝卜
 3. 鼠标上滑相对距离决定兔子跳跃高度
